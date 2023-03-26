@@ -1,3 +1,3 @@
 # Datalock
 
-Download :[here](https://github.com/kalharawimukthi0617/Datalock/releases/tag/v1.1)
+Download :[Datalock-K1.1](https://github.com/kalharawimukthi0617/Datalock/releases/tag/v1.1)
